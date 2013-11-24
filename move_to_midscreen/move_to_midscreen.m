@@ -1,6 +1,6 @@
-// click_midscreen.m
+// move_to_midscreen.m
 // 
-// Usage: ./click_midscreen -- moves the mouse to the center of the screen.
+// Usage: ./move_to_midscreen -- moves the mouse to the center of the screen.
 // Based on http://hints.macworld.com/article.php?story=2008051406323031
 // Modifications by Sean Zhu <http://szhu.me/>
 
